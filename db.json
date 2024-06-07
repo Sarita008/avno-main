@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/new-styles_600x.jpg?v=1614331357",
+            "title": "Best Cloths Online",
+            "text": "NEW STYLE"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/pre-fall-accesories_600x.jpg?v=1614331357",
+            "title": "Pre-Fall Collection ",
+            "text": "ACCESSORIES"
+        },
+        {
+            "img": "https://avon-demo.myshopify.com/cdn/shop/files/gant-shoes_600x.jpg?v=1614331357",
+            "title": "Best Brand",
+            "text": "ELEGANT SHOWS"
+        }
+    ],
+    "women": [
+        {
+            "id": 1,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/4_dcef33e6-b45c-4465-a6cc-9137ddadc91a_1800x1800.jpg?v=1561437914",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/1_761993f7-4c94-4c0c-9982-380474442645_1800x1800.jpg?v=1561437914",
+            "img3": "https://avon-demo.myshopify.com/cdn/shop/products/2_c817cb40-e12f-4d8b-9822-ebe0f2083b4c_1800x1800.jpg?v=1561437914",
+            "img4": "https://avon-demo.myshopify.com/cdn/shop/products/3_73d7c774-fb7c-4a5a-9fe3-877f908c3c68_1800x1800.jpg?v=1561437914",
+            "img5": "https://avon-demo.myshopify.com/cdn/shop/products/Untitled-1_f20990a9-038f-4b4f-95d7-1a4fa62337d7_1800x1800.jpg?v=1561437914",
+            "img6": "https://avon-demo.myshopify.com/cdn/shop/products/7_75d78c00-5b4f-4b33-9974-8f886b3488dd_1800x1800.jpg?v=1561437914",
+            "img7": "https://avon-demo.myshopify.com/cdn/shop/products/8_e6a6a027-5d49-4549-94c0-ff0c06014028_1800x1800.jpg?v=1561437914",
+            "img8": "https://avon-demo.myshopify.com/cdn/shop/products/6_5c100a25-9ba6-4b75-8628-b32fef9eab33_1800x1800.jpg?v=1561437914",
+            "title": "Moonlight Bay Knit",
+            "price": 300
+        },
+        {
+            "id": 2,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/8_d74500ed-dd16-4711-b826-3c25f5651c8a_1800x1800.jpg?v=1616747573",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/2_9e9f51a6-1d27-4e12-b407-119e80626039_1800x1800.jpg?v=1616747573",
+            "img3": "https://avon-demo.myshopify.com/cdn/shop/products/1_e43993e2-a13a-4ed0-94d0-1a2e55ad9482_600x.jpg?v=1616747573",
+            "img4": "https://avon-demo.myshopify.com/cdn/shop/products/3_5d8dacbc-0c62-4218-adbe-c97dcc8e9740_1800x1800.jpg?v=1616747573",
+            "img5": "https://avon-demo.myshopify.com/cdn/shop/products/4_9dbabbdf-ed01-42f6-8fe5-ed3ef6a2f78e_1800x1800.jpg?v=1616747573",
+            "img6": "https://avon-demo.myshopify.com/cdn/shop/products/5_7919ae30-e68b-454b-803c-aa58b2bfe372_1800x1800.jpg?v=1616747573",
+            "img7": "https://avon-demo.myshopify.com/cdn/shop/products/6_125103e8-5ffd-4b2d-bfe1-ebd3fc594c83_1800x1800.jpg?v=1616747573",
+            "img8": "https://avon-demo.myshopify.com/cdn/shop/products/7_fd81dfcd-7f24-471d-87ac-df2deaf1efa8_600x.jpg?v=1616747573",
+            "title": "Button Up Top Black",
+            "price": 800.00
+        },
+        {
+            "id": 3,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/8_600x.jpg?v=1570425112",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/4_b2f0e752-be97-45aa-8740-7f1e563ef245_1800x1800.jpg?v=1570425112",
+            "img3": "https://avon-demo.myshopify.com/cdn/shop/products/3_2d96c249-245e-4924-90f3-d89ace8f3822_1800x1800.jpg?v=1570425112",
+            "img4": "https://avon-demo.myshopify.com/cdn/shop/products/7_1800x1800.jpg?v=1570425112",
+            "img5": "https://avon-demo.myshopify.com/cdn/shop/products/9_600x.jpg?v=1570425112",
+            "img6": "https://avon-demo.myshopify.com/cdn/shop/products/2_7a181fbd-faa5-4002-b1d7-5e21b9ece12c_1800x1800.jpg?v=1677659657",
+            "img7": "https://avon-demo.myshopify.com/cdn/shop/products/1_3623a4ce-ecd7-4c16-b426-00b7572a0b7e_1800x1800.jpg?v=1677659657",
+            "img8": "https://avon-demo.myshopify.com/cdn/shop/products/7_0d14becc-f97f-442d-b5c1-6446b717575b_1800x1800.jpg?v=1677659657",
+            "title": "Innerbloom Puffer Jacket",
+            "price": 500.00
+        },
+        {
+            "id": 4,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/1_ad3b5994-221c-4300-86d8-9d8cf96459ed_600x.jpg?v=1561438589",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/6_1436d4cd-cab1-41e2-b61c-cb659d54f29e_1800x1800.jpg?v=1561438589",
+            "title": "Women Shorts",
+            "price": 300.00
+        },
+        {
+            "id": 5,
+            "img1": "https://avon-demo.myshopify.com/cdn/shop/products/2_1a611dfc-2af7-4975-a79c-a53da36286db_1800x1800.jpg?v=1559911362",
+            "img2": "https://avon-demo.myshopify.com/cdn/shop/products/3_be677298-88bb-4c2f-919c-caa643141421_1800x1800.jpg?v=1559911362",
+            "title": "Night Runner Pants",
+            "price": 300.00
+        }
+    ]
+}
